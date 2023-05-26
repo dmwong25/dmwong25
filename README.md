@@ -1,4 +1,29 @@
-### Hi there 👋
+### Welcome to my Github Profile!
+
+## About me
+Hello! My name is David Wong and I'm a rising junior at Pomona College majoring in CS and minoring in Math.
+
+I began coding my freshman year in college and am proficient in coding in Java, Python, and R.  
+
+Some things I like to do aside from coding consist of playing competitive golf, reading Webtoons, and playing games with friends!
+
+## What I do
+
+Programming Languages: Java, Python, R
+
+Areas of Interest: NPL, Machine Learning, Statistics
+
+## Projects
+
+Golfstat API: In development :)
+ 
+## Get in Touch
+
+Email: dmwa2021@mymail.pomona.edu
+
+Linkedln: https://www.linkedin.com/in/davidwongg/
+
+
 
 <!--
 **dmwong25/dmwong25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
