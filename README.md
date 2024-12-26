@@ -1,7 +1,7 @@
 ### Welcome to my Github Profile!
 
 ## About me
-Hello! My name is David Wong and I'm a rising junior at Pomona College majoring in CS and minoring in Math.
+Hello! My name is David Wong and I'm a senior at Pomona College majoring in CS and minoring in Math.
 
 I began coding my freshman year in college and am proficient in coding in Java, Python, and R. I am currently learning C
 
