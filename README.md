@@ -9,13 +9,12 @@ Some things I like to do aside from coding consist of playing competitive golf, 
 
 ## What I do
 
-Programming Languages: Java, Python, R
+Programming Languages: Java, Python, R, SQL, C, JavaScript
 
-Areas of Interest: NPL, Machine Learning, Statistics, Game Design, Full Stack
+Areas of Interest: NPL, Machine Learning, Statistics, Game Design, Full Stack, Data Science
 
 ## Projects
 
-Odin project 
 TBD
  
 ## Get in Touch
